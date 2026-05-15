@@ -2,7 +2,7 @@
 ## A Language Mixing Toolbox
 
 ![Static Badge](https://img.shields.io/badge/release-v1.1-violet?style=plastic)
-![Static Badge](https://img.shields.io/badge/published%20in-GoodJournalTM-teal?style=plastic)
+![Static Badge](https://img.shields.io/badge/published%20in-ComingSoon-teal?style=plastic)
 
 ---
 ### Description
